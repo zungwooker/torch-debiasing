@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: debiasing
+Version: 0.1
+Summary: A set of tools for debiasing research.
+Author: zungwooker
+Author-email: zungwooker@gmail.com
+License: MIT
+Requires-Dist: torch
